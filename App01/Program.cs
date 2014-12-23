@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Reactive.Linq;
 
 namespace App01
 {
@@ -10,6 +11,9 @@ namespace App01
     {
         static void Main(string[] args)
         {
+            
+            //System.Reactive.Linq;
+            //Observable.
         }
     }
 }
